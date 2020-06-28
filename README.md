@@ -1,2 +1,5 @@
-# Pizza
-Favorite Toppings
+# *Pizza*
+*Favorite Toppings*
+
+## *About Me*
+*https://github.com/JordyPena
